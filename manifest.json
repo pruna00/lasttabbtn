@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Last Tab Button",
+    "description": "Switch to the last accessed tab",
+    "version": "1.0",
+    "action": {
+      "default_icon": "favicon.svg",
+      "default_area": "tabstrip"
+    },
+    "background": {
+      "scripts": ["background.js"]
+    },
+    "permissions": ["activeTab"]
+  
+  }
