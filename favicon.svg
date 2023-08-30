@@ -1,49 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<?xml version="1.0" encoding="UTF-8"?>
 
 <svg
-   width="800px"
-   height="800px"
-   viewBox="0 0 24 24"
    fill="none"
-   version="1.1"
-   id="svg135"
-   sodipodi:docname="undo-left-round-square-svgrepo-com.mod.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   inkscape:export-filename="undo-left-round-square-svgrepo-com.mod.png"
-   inkscape:export-xdpi="5.7600002"
-   inkscape:export-ydpi="5.7600002"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs139" />
-  <sodipodi:namedview
-     id="namedview137"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="0.98901497"
-     inkscape:cx="206.26584"
-     inkscape:cy="401.91505"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg135" />
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   xmlns="http://www.w3.org/2000/svg">
   <path
-     d="M 3.0087525,7.1212264 H 15.429576 c 3.149818,0 5.703348,3.0985056 5.703348,6.9209036 0,3.822398 -2.55353,6.920824 -5.703348,6.920824 H 7.9517083 M 3.0087525,7.1212264 6.7159694,2.9686922 M 3.0087525,7.1212264 6.7159694,11.273801"
-     stroke="#1c274c"
-     stroke-width="1.5"
+     d="m 20.770383,40.889422 h 59.252081 c 15.025837,0 27.207156,14.781058 27.207156,33.015356 0,18.234306 -12.181319,33.014912 -27.207156,33.014982 L 30,106.92 M 20.770383,40.889422 38.455228,21.080242 M 20.77,40.889422 38.455228,60.698793"
+     stroke="black"
+     stroke-width="9"
      stroke-linecap="round"
-     stroke-linejoin="round"
-     id="path131"
-     style="stroke-width:2.74974;stroke-dasharray:none" />
+     stroke-linejoin="round" />
 </svg>
